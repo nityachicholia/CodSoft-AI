@@ -1,27 +1,23 @@
+# Task 4: Movie Recommendation System
 
-# CodSoft AI Internship - Task 2
-
-## Project Name
-Tic-Tac-Toe AI
-
-## Description
-A Python-based Tic-Tac-Toe game where a player competes against the computer.
-
-## Features
-- Interactive 3x3 game board
-- Player uses X and computer uses O
-- Computer tries to win or block the player's winning move
-- Detects wins and draws
-- Validates player input
+## Project Description
+This project recommends movies based on the user's favourite genre.
 
 ## Technologies Used
 - Python
-- random module
+- Google Colab
 
-## How to Run
-Run the following command in a terminal:
+## Features
+- Displays available movie genres.
+- Accepts the user's genre choice.
+- Recommends movies matching the selected genre.
+- Handles invalid user input.
 
-python tictactoe.py
+## How It Works
+1. Run the program.
+2. Choose a genre from the displayed list.
+3. Enter the genre number.
+4. View the recommended movies.
 
-## Internship
-CodSoft Artificial Intelligence Internship
+## Author
+CodSoft AI Internship Project
